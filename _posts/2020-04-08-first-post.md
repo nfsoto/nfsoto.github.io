@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test post"
+title: "First Post"
+image: mountains.jpg
 ---
-###This is a test post
-alkasjfl
+### Testing md
