@@ -11,7 +11,7 @@ The first section of lesson 1 deals with lines. My major takeaways from this les
 * Straight uniform lines are essential
 * Once you start making a line you are comitted to following through
 * You can draw from your wrist, your elbow, and your shoulder
-** Every drawing done for the class should be done from the shoulder to train
+    * Every drawing done for the class should be done from the shoulder to train
 
 I've always considered myself bad at drawing and any art related activities in general. It seemed like lots of repetitive activities would be a good way to start working on changing this.
 
