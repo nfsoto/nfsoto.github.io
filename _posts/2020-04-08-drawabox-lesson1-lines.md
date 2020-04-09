@@ -16,7 +16,7 @@ The first section of lesson 1 deals with lines. My major takeaways from this les
 I've always considered myself bad at drawing and any art related activities in general. It seemed like lots of repetitive activities would be a good way to start working on changing this.
 
 Anyways, here are the pictures from the first few exercises in Lesson 1. Was funny because of how unconfident I felt even drawing straight lines, almost nervous even. From doing these activities my biggest need for improvement is to stop arcing my lines and to be a tad bit less wobbly.
-Gonna post these as jpeg's right now but will experiment with changing up how I do this
+Gonna post these as jpeg's right now but will experiment with changing up how I do this. I also plan on looking into better formatting on this.It's a work in progress :)
 
 ![Line1](../assets/img/lines_1.jpeg)
 ![Line2](../assets/img/lines_2.jpeg)
